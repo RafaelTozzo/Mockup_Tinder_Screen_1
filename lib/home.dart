@@ -16,8 +16,8 @@ class Home extends StatelessWidget {
           children: [
             Image.asset(
               'assets/images/logo.png',
-              width: 120,
-              height: 120,
+              width: 220,
+              height: 220,
             ),
             Padding(
               padding: const EdgeInsets.symmetric(vertical: 40),
@@ -35,14 +35,14 @@ class Home extends StatelessWidget {
                   ),
                   Text(
                     'Plugin app for tinder',
-                    style: TextStyle(color: theme.primaryColor, fontSize: 15),
+                    style: TextStyle(color: theme.primaryColor, fontSize: 16),
                   ),
                 ],
               ),
             ),
             SizedBox(
               width: mediaQuery.size.width * 0.6,
-              height: 50,
+              height: 40,
               child: ClipRRect(
                 borderRadius: BorderRadius.circular(20),
                 child: ElevatedButton(

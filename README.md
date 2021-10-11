@@ -1,16 +1,13 @@
-# tinder_screen
+# Tinder Screen
 
-A new Flutter project.
+Lesson Challenge nº 27 Flutterando, creating a Tinder screen.
 
-## Getting Started
+Link of layout challenge: https://www.youtube.com/watch?v=9zkKGkFj3qg&list=PLlBnICoI-g-d-J57QIz6Tx5xtUDGQdBFB&index=27
 
-This project is a starting point for a Flutter application.
+The class objective is to create a Tinder screen using the Flutter to improve skills.
 
-A few resources to get you started if this is your first Flutter project:
+## Result:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<div align="center">
+<img src="https://user-images.githubusercontent.com/86019793/136835751-7bdb603b-17c5-4e73-b404-c9982623081d.PNG"/>
+</div>
