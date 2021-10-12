@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
 
 class Home extends StatelessWidget {
-  const Home({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
     var mediaQuery = MediaQuery.of(context);
     var theme = Theme.of(context);
+
     return Scaffold(
       body: Container(
         width: mediaQuery.size.width,
@@ -41,8 +41,8 @@ class Home extends StatelessWidget {
               ),
             ),
             SizedBox(
-              width: mediaQuery.size.width * 0.6,
-              height: 40,
+              width: mediaQuery.size.width * 0.5,
+              height: 35,
               child: ClipRRect(
                 borderRadius: BorderRadius.circular(20),
                 child: ElevatedButton(
